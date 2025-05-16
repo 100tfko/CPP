@@ -30,7 +30,7 @@ Every one of each 10 different small projects have a different new key concept t
 
 ## Soft skills:
 <ul>
-  Starting with a new languaje is never esasy. This project is an exercice both in practicing the repeating cicle of learning new skills and also applying everything that is transferable from the previous projects to accelerate and facilitate this new learning.
+  Starting with a new languaje is never eassy. This project is an exercice both in practicing the repeating cicle of learning new skills and also applying everything that is transferable from the previous projects to accelerate and facilitate this new learning.
 </ul>
 
 
