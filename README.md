@@ -11,7 +11,7 @@ Every one of each 10 different small projects have a different new key concept t
 
 ## Programming concepts:
 <ul>
-  Each level adds new concepts.
+Each level adds new concepts.
   </ul>
 
 ## Technologies:
