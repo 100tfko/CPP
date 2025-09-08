@@ -70,10 +70,43 @@ Each level adds new concepts.
   <li>Multiple inheritance and the diamond problem</li>
   </ul>
 
-  ## CPP4:
+## CPP4:
 <ul>
   In this one we dice into more complex inheritance probles and the use of keywords:
   <li>Subtype polymorphism</li>
   <li>Abstract classes and interfaces</li>
   <li>Use of keyword "virtual"</li>
+  </ul>
+
+## CPP5:
+<ul>
+  This module is about exceptions in C++:
+  <li>Exception handling using try, catch, and throw</li>
+  <li>Flow control and repetition using exceptions</li>
+  </ul>
+
+## CPP6:
+<ul>
+  Exercise about the variety os "castings" in C++::
+  <li>Different types of casting in C++: static_cast, dynamic_cast, const_cast, and reinterpret_cast</li>
+  </ul>
+
+## CPP7:
+<ul>
+  This module focus on Templates in C++:
+  <li>Creation and usage of function and class templates.</li>
+  </ul>
+
+## CPP8:
+<ul>
+  This exercise is a bit trickier, mixing concepts we knew from C into C++
+  <li>Templated containers, iterators, and algorithms</li>
+  <li>Using the Standard Template Library (STL) in C++</li>
+  </ul>
+
+  ## CPP9:
+<ul>
+  Here we need to get deep into containers and algorithms:
+  <li>Advanced usage of generic algorithms and data structures</li>
+  <li>Implementation of the Ford–Johnson merge sort algorithm</li>
   </ul>
